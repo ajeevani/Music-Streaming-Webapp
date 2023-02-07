@@ -9,5 +9,7 @@ This a music webapp that allows artists to register an account and upload their 
 - Cloudinary
 - Streamifier
 
+The application is hosted via Cyclic. The databases used are postgres and mongodb
+
 link to webapp
 https://calm-gray-ladybug-cap.cyclic.app/
